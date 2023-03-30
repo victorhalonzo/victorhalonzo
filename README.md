@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Alonzo.
 - 👀 I’m interested in software jobs.
-- 🌱 I’m currently learning Vue and React Js.
+- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on projects of software.
 - 📫 My email adress is victorh.alonzo@gmail.com.
 
